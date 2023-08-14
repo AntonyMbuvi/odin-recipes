@@ -1,0 +1,18 @@
+h1 {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+    background-color: aliceblue;
+}
+ul li{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+h4 {
+    color: dimgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    height: 300px;
+    width:  300px;
+}
